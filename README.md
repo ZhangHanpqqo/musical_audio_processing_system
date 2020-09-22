@@ -1,1 +1,2 @@
-# musical_audio_processing_system
+# A-Simple-Audio-Processor-
+A Audio Processor build with JUCE as a course project
